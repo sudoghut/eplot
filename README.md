@@ -27,7 +27,7 @@ Found an issue with an episode abstract or plot? Please help improve the platfor
 Special thanks to:
 
 - [Astro Framework](https://astro.build)
-- [Astro Zen Blog Template](https://astro-zen-blog.larryxue.dev/)
+- [Astro Zen Blog Template](hhttps://github.com/larry-xue/astro-zen-blog/)
 - [Mikanani](https://mikanani.me/)
 
 ## License
