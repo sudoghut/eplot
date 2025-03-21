@@ -33,6 +33,6 @@ export const siteConfig: SiteConfig = {
     tags: [],
     excludeTags: [],
   },
-  googleAnalysis: "", // your google analysis id
+  googleAnalysis: "G-WTWD13672L", // your google analysis id
   search: true, // set this to false if you don't want to provide a search feature
 };
