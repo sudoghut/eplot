@@ -7,7 +7,7 @@ import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   site: siteConfig.site,
-  integrations: [tailwind(), sitemap()],
+  integrations: [tailwind(), sitemap(), sitemap()],
   markdown: {
     rehypePlugins: [
       [rehypePrettyCode, {
