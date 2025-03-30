@@ -21,7 +21,7 @@ export const siteConfig: SiteConfig = {
   site: "https://eplot.oopus.info", // your site url
   title: "Eplot",
   slogan: "",
-  description: "Abstract of Eposides",
+  description: "Abstract of Eposides 剧情简介",
   social: {
     github: "https://github.com/sudoghut/eplot", // leave empty if you don't want to show the github
     // linkedin: "https://www.linkedin.com/in/someone/", // leave empty if you don't want to show the linkedin
