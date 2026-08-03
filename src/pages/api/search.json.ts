@@ -19,7 +19,7 @@ export async function GET() {
         title: post.data.title,
         description: post.data.description,
         tags: post.data.tags,
-        slug: post.slug,
+        slug: post.id,
         content: cleanContent,
       };
     })
